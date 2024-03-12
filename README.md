@@ -1,11 +1,11 @@
 # 'Tic Tac Toe' with WebSocket
 
-## server (NodeJS)
+## server
 
 **Package installation**: `npm install` <br/>
 **Run**: `node ./index.js`
 
-## client (ReactJS)
+## client
 
 **Package installation**: `npm install` <br/>
 **Run**: `npm start` 
