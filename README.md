@@ -1,4 +1,4 @@
-# TicTacToe com WebSocket
+# 'Tic Tac Toe' with WebSocket
 
 ## server (NodeJS)
 
