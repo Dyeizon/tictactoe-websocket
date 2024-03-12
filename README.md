@@ -2,10 +2,10 @@
 
 ## server (NodeJS)
 
-`npm install` <br/>
-`node ./index.js`
+**Package installation**: `npm install` <br/>
+**Run**: `node ./index.js`
 
 ## client (ReactJS)
 
-`npm install` <br/>
-`npm start` 
+**Package installation**: `npm install` <br/>
+**Run**: `npm start` 
